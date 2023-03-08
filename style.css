@@ -1,0 +1,12 @@
+form {
+    width: 30%;
+}
+
+.col {
+    display: grid;
+    place-items: center;
+}
+
+form button {
+    margin-top: 10px;
+}
